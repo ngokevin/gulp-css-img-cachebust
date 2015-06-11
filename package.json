@@ -1,0 +1,28 @@
+{
+  "name": "gulp-css-img-cachebust",
+  "version": "1.0.0",
+  "description": "Appends cachebust query parameters to image URLs within CSS files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngokevin/gulp-css-img-cachebust"
+  },
+  "keywords": [
+    "gulp",
+    "css",
+    "img",
+    "cachebust"
+  ],
+  "author": "Kevin Ngo <me@ngokevin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngokevin/gulp-css-img-cachebust/issues"
+  },
+  "homepage": "https://github.com/ngokevin/gulp-css-img-cachebust",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
